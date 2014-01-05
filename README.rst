@@ -16,3 +16,15 @@ key binding
 - q quit from fswanderer
 
 and more...
+
+install
+-------
+
+1. install MinGW.
+2. make.  (fix CC in Makefile if necessary)
+
+run
+---
+
+1. install Wine. (first time)
+2. wine ./fswanderer
